@@ -24,7 +24,7 @@ Ensure you have a modern web browser installed.
 
 Installation
 
-Clone the repository: git clone https://github.com/iomakarsingh/counting-things.git
+Clone the repository: git clone https://github.com/iomakarsingh/counter.git
 Navigate to the project directory: cd counter
 Open index.html in your preferred web browser.
 Examples
