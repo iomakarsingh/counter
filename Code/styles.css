@@ -1,0 +1,27 @@
+#myLabel {
+  display: block;
+  background-color: navy;
+  color: aqua;
+  font-size: 10em;
+  text-align: center;
+}
+
+#button {
+  text-align: center;
+}
+
+.button {
+  padding: 5px;
+  margin: 5px;
+  font-size: 2em;
+  background-color: navy;
+  color: aqua;
+  border: 2px solid aqua;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: rgb(54, 54, 250);
+  border-radius: 5px;
+}
