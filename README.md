@@ -1,4 +1,4 @@
-**Counter Project**
+# **Counter Project**
 
 **Description:**
 
@@ -29,10 +29,6 @@ Open index.html in your preferred web browser.
 **Examples:**
 
 https://github.com/iomakarsingh/counter/tree/main/Images
-
-**Contributing:**
-
-We welcome contributions! Feel free to submit bug reports, suggest new features, or contribute to the codebase. See the Contributing Guidelines for more details.
 
 **License:**
 
